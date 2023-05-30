@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Schoolis open!"
-^c
+echo "The school is open!"
